@@ -41,6 +41,5 @@ Others
 - CRUD operations for favorites/watchlist  
 - Error handling & input validation  
 
----
- 📂 Project Structure
+
 
